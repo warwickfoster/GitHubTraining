@@ -10,7 +10,7 @@ My list of GitHub Training Courses
 - [ ] Z Maybe? (hours 22)
 
 ## Specific Courses
-|Group|Description|Time|
+|Complete|Group|Description|Time|
 |-|-|-|
 | <ul><li>[ ] </li></ul>|Intro|[Community starter kit](https://lab.github.com/githubtraining/community-starter-kit)|79|
 | <ul><li>[x] </li></ul>|Intro|[Connect the dots in a GitHub repository](https://lab.github.com/githubtraining/connect-the-dots-in-a-github-repository)|26|
