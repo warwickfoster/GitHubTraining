@@ -11,7 +11,7 @@ My list of GitHub Training Courses
 
 ## Specific Courses
 |Complete|Group|Description|Time|
-|-|-|-|
+|-|-|-|-|
 | <ul><li>[ ] </li></ul>|Intro|[Community starter kit](https://lab.github.com/githubtraining/community-starter-kit)|79|
 | <ul><li>[x] </li></ul>|Intro|[Connect the dots in a GitHub repository](https://lab.github.com/githubtraining/connect-the-dots-in-a-github-repository)|26|
 | <ul><li>[ ] </li></ul>|Intro|[Create an open source program](https://lab.github.com/githubtraining/create-a-release-based-workflow)|76|
