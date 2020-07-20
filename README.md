@@ -9,7 +9,7 @@ My list of GitHub Training Courses
 - [ ] Specific (hours 4)
 - [ ] Z Maybe? (hours 22)
 
-##Specific Courses
+## Specific Courses
 |Group|Description|Time|
 |-|-|-|
 |Intro|[Community starter kit](https://lab.github.com/githubtraining/community-starter-kit)|79|
