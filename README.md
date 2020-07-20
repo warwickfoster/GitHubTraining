@@ -13,14 +13,14 @@ My list of GitHub Training Courses
 |Group|Description|Time|
 |-|-|-|
 | <ul><li>[ ] </li></ul>|Intro|[Community starter kit](https://lab.github.com/githubtraining/community-starter-kit)|79|
-| <ul><li>[ ] </li></ul>|Intro|[Connect the dots in a GitHub repository](https://lab.github.com/githubtraining/connect-the-dots-in-a-github-repository)|26|
+| <ul><li>[x] </li></ul>|Intro|[Connect the dots in a GitHub repository](https://lab.github.com/githubtraining/connect-the-dots-in-a-github-repository)|26|
 | <ul><li>[ ] </li></ul>|Intro|[Create an open source program](https://lab.github.com/githubtraining/create-a-release-based-workflow)|76|
 | <ul><li>[ ] </li></ul>|Intro|[Getting started with GitHub Apps](https://lab.github.com/githubtraining/getting-started-with-github-apps)|51|
 | <ul><li>[ ] </li></ul>|Intro|[GitHub Pages](https://lab.github.com/githubtraining/github-pages)|40|
 | <ul><li>[ ] </li></ul>|Intro|[Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)|39|
 | <ul><li>[ ] </li></ul>|Intro|[Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)|35|
 | <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)|48|
-| <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)|59|
+| <ul><li>[x] </li></ul>|Ramp Up Learning Path|[Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)|59|
 | <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[GitHub Actions: Hello World](https://lab.github.com/githubtraining/github-actions:-hello-world)|37|
 | <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)|39|
 | <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[Create a release based workflow](https://lab.github.com/githubtraining/create-an-open-source-program)|87|
