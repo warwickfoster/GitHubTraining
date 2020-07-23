@@ -2,7 +2,7 @@
 My list of GitHub Training Courses
 
 ## Training Labs
-- [ ] Intro (hours 6)
+- [x] Intro (hours 6)
 - [ ] Ramp Up Learning Path (hours 6) 
 - [ ] Actions Learning Path (hours 16)
 - [ ] General (hours 6)
@@ -17,8 +17,8 @@ My list of GitHub Training Courses
 | <ul><li>[x] </li></ul>|Intro|[Create an open source program](https://lab.github.com/githubtraining/create-an-open-source-program)|76|
 | <ul><li>[x] </li></ul>|Intro|[Getting started with GitHub Apps](https://lab.github.com/githubtraining/getting-started-with-github-apps)|51|
 | <ul><li>[x] </li></ul>|Intro|[GitHub Pages](https://lab.github.com/githubtraining/github-pages)|40|
-| <ul><li>[ ] </li></ul>|Intro|[Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)|39|
-| <ul><li>[ ] </li></ul>|Intro|[Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)|35|
+| <ul><li>[x] </li></ul>|Intro|[Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)|39|
+| <ul><li>[x] </li></ul>|Intro|[Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)|35|
 | <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)|48|
 | <ul><li>[x] </li></ul>|Ramp Up Learning Path|[Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)|59|
 | <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[GitHub Actions: Hello World](https://lab.github.com/githubtraining/github-actions:-hello-world)|37|
