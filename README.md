@@ -3,7 +3,7 @@ My list of GitHub Training Courses
 
 ## Training Labs
 - [x] Intro (hours 6)
-- [ ] Ramp Up Learning Path (hours 6) 
+- [x] Ramp Up Learning Path (hours 6) 
 - [ ] Actions Learning Path (hours 16)
 - [ ] General (hours 6)
 - [ ] Specific (hours 4)
@@ -24,9 +24,9 @@ My list of GitHub Training Courses
 | <ul><li>[x] </li></ul>|Ramp Up Learning Path|[GitHub Actions: Hello World](https://lab.github.com/githubtraining/github-actions:-hello-world)|37|
 | <ul><li>[x] </li></ul>|Ramp Up Learning Path|[Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)|39|
 | <ul><li>[x] </li></ul>|Ramp Up Learning Path|[Create a release based workflow](https://lab.github.com/githubtraining/create-an-open-source-program)|87|
-| <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[Securing your workflows](https://lab.github.com/githubtraining/securing-your-workflows)|20|
-| <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[Migrating your repository to GitHub](https://lab.github.com/githubtraining/migrating-your-repository-to-github)|28|
-| <ul><li>[ ] </li></ul>|Ramp Up Learning Path|[InnerSource fundamentals](https://lab.github.com/githubtraining/innersource-fundamentals)|36|
+| <ul><li>[x] </li></ul>|Ramp Up Learning Path|[Securing your workflows](https://lab.github.com/githubtraining/securing-your-workflows)|20|
+| <ul><li>[x] </li></ul>|Ramp Up Learning Path|[Migrating your repository to GitHub](https://lab.github.com/githubtraining/migrating-your-repository-to-github)|28|
+| <ul><li>[x] </li></ul>|Ramp Up Learning Path|[InnerSource fundamentals](https://lab.github.com/githubtraining/innersource-fundamentals)|36|
 | <ul><li>[ ] </li></ul>|Actions Learning Path|[GitHub Actions: Continuous Delivery with AWS](https://lab.github.com/githubtraining/github-actions:-continuous-delivery-with-aws)|98|
 | <ul><li>[ ] </li></ul>|Actions Learning Path|[GitHub Actions: Continuous Delivery with Azure](https://lab.github.com/githubtraining/github-actions:-continuous-delivery-with-azure)|116|
 | <ul><li>[ ] </li></ul>|Actions Learning Path|[GitHub Actions: Continuous Integration](https://lab.github.com/githubtraining/github-actions:-continuous-integration)|134|
