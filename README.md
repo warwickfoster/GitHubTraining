@@ -9,6 +9,10 @@ My list of GitHub Training Courses
 - [ ] Specific (hours 4)
 - [ ] Z Maybe? (hours 22)
 
+## Links
+[x] [Ramp up on Git and GitHub](https://lab.github.com/githubtraining/ramp-up-on-git-and-github)
+[ ] [devops with github actions](https://lab.github.com/githubtraining/devops-with-github-actions)
+
 ## Specific Courses
 |Complete|Group|Description|Time|
 |-|-|-|-|
