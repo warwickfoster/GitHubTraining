@@ -47,3 +47,8 @@ My list of GitHub Training Courses
 | <ul><li>[ ] </li></ul>|Z|[CodeQL U-Boot Challenge (C/C++)](https://lab.github.com/githubtraining/codeql-u-boot-challenge-(cc++))|1266|
 | <ul><li>[ ] </li></ul>|Z|[Write a Learning Lab course](https://lab.github.com/githubtraining/write-a-learning-lab-course)|45|
 
+Develop Azure compute solutions 	(25-30%)
+Develop for Azure storage 	(10-15%)
+Implement Azure security 	(15-20%)
+Monitor, troubleshoot, and optimize Azure solutions 	(10-15%)
+Connect to and consume Azure services and third-party services 	(25-30%)
