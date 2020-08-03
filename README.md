@@ -37,7 +37,7 @@ My list of GitHub Training Courses
 | <ul><li>[x] </li></ul>|Actions Learning Path|[GitHub Actions: Publish to GitHub Packages](https://lab.github.com/githubtraining/github-actions:-publish-to-github-packages)|21|
 | <ul><li>[ ] </li></ul>|Actions Learning Path|[GitHub Actions: Using GitHub Script](https://lab.github.com/githubtraining/github-actions:-using-github-script)|18|
 | <ul><li>[ ] </li></ul>|Actions Learning Path|[GitHub Actions: Write Docker container actions](https://lab.github.com/githubtraining/github-actions:-write-docker-container-actions)|133|
-| <ul><li>[ ] </li></ul>|Actions Learning Path|[GitHub Actions: Writing JavaScript Actions](https://lab.github.com/githubtraining/github-actions:-writing-javascript-actions)|432|
+| <ul><li>[ ] </li></ul>|Actions Learning Path|[GitHub Actions: Writing JavaScript Actions](https://lab.github.com/githubtraining/github-actions:-writing-javascript-actions)|90|
 | <ul><li>[ ] </li></ul>|General|[Introduction to Design Thinking](https://lab.github.com/githubtraining/introduction-to-design-thinking)|54|
 | <ul><li>[ ] </li></ul>|General|[Introduction to HTML](https://lab.github.com/githubtraining/introduction-to-html)|94|
 | <ul><li>[ ] </li></ul>|General|[Introduction to React](https://lab.github.com/githubtraining/introduction-to-react)|229|
